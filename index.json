@@ -1,0 +1,127 @@
+
+
+
+[
+    {
+        "productid":100001 ,
+        "title":"sea power",
+        "image":"https://cdn.pixabay.com/photo/2014/07/12/21/03/for-men-391445_1280.jpg",
+        "price":899,
+        "category":"perfumes"
+
+    },
+    {
+        "productid":100002,
+        "title":"givenchy perfume",
+        "image":"https://www.pexels.com/photo/photo-of-person-holding-a-gentlemen-only-cologne-bottle-by-givenchy-1895015/",
+        "price":990,
+        "category":"perfumes"
+
+    },
+    {
+        "productid":100003,
+        "title":"zara",
+        "image":"https://images.pexels.com/photos/12580617/pexels-photo-12580617.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":879,
+        "category":"perfumes"
+
+    },
+    {
+        "productid":10004 ,
+        "title":"elegant",
+        "image":"https://images.pexels.com/photos/8361484/pexels-photo-8361484.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":690,
+        "category":"perfumes"
+
+    },
+    {
+        "productid":100005 ,
+        "title":"channel",
+        "image":"https://images.pexels.com/photos/11028230/pexels-photo-11028230.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":920,
+        "category":"perfumes"
+
+    },
+    {
+        "productid":100006 ,
+        "title":"rolex",
+        "image":"https://images.pexels.com/photos/380782/pexels-photo-380782.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":879,
+        "category":"Watches"
+
+    },
+    {
+        "productid":100007 ,
+        "title":"wd",
+        "image":"https://images.pexels.com/photos/2494608/pexels-photo-2494608.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":599,
+        "category":"watches"
+
+    },
+    {
+        "productid":100008 ,
+        "title":"rotary",
+        "image":"https://images.pexels.com/photos/424984/pexels-photo-424984.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":780,
+        "category":"watches"
+
+    },
+    {
+        "productid":100009 ,
+        "title":"edifice",
+        "image":"https://images.pexels.com/photos/1210019/pexels-photo-1210019.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":440,
+        "category":"watches"
+
+    },
+    {
+        "productid":100010 ,
+        "title":"rado",
+        "image":"https://images.pexels.com/photos/1268511/pexels-photo-1268511.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":999,
+        "category":"watches"
+
+    },
+    {
+        "productid":100011 ,
+        "title":"nike air",
+        "image":"https://images.pexels.com/photos/30547549/pexels-photo-30547549/free-photo-of-colorful-nike-sneakers-reflected-indoors.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":550,
+        "category":"shoes"
+
+    },
+    {
+        "productid":100012 ,
+        "title":"puma",
+        "image":"https://images.pexels.com/photos/2882861/pexels-photo-2882861.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":220,
+        "category":"shoes"
+
+    },
+    {
+        "productid":100013 ,
+        "title":"jordan",
+        "image":"https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":789,
+        "category":"shoes"
+
+    },
+    {
+        "productid":100014 ,
+        "title":"adidas",
+        "image":"https://images.pexels.com/photos/89910/pexels-photo-89910.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":510,
+        "category":"shoes"
+
+    },
+    {
+        "productid":100015 ,
+        "title":"nike special edition",
+        "image":"https://images.pexels.com/photos/12698025/pexels-photo-12698025.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price":930,
+        "category":"shoes"
+
+    }
+
+    
+]
