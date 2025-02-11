@@ -121,7 +121,47 @@
         "price":930,
         "category":"shoes"
 
-    }
+    },
+    {
+        "productid":100016 ,
+        "title":"iphone6",
+        "image":"https://www.pexels.com/photo/close-up-of-two-modern-smartphones-on-gray-background-30639090",
+        "price":900,
+        "category":"phones"
 
+    },
+    {
+        "productid":100017 ,
+        "title":"samsung s25 ultra",
+        "image":"https://www.pexels.com/photo/close-up-of-smartphone-camera-lens-in-hand-30466735/",
+        "price":998,
+        "category":"phones"
+
+    },
+    {
+        "productid":100018 ,
+        "title":"oppo a57",
+        "image":"https://www.pexels.com/photo/red-phone-on-a-floor-21424623/",
+        "price":550,
+        "category":"phones"
+
+    },
+    {
+        "productid":100019 ,
+        "title":"huawei",
+        "image":"https://www.pexels.com/photo/hand-holding-smartphone-outdoors-in-sunlight-29019370",
+        "price":705,
+        "category":"phones"
+
+    },
+    {
+        "productid":100020 ,
+        "title":"infinix note 4o",
+        "image":"https://www.pexels.com/photo/a-yellow-phone-with-a-straw-and-a-straw-27598324/",
+        "price":777,
+        "category":"phones"
+
+    }
+    
     
 ]
